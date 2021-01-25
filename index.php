@@ -1,1 +1,1 @@
-<?php echo phpinfo(); ?>
+<?php echo "Página de repaso"; ?>
